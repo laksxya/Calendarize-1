@@ -76,7 +76,7 @@ function App() {
       
       <nav className="navBar">
         <h1 className="nameLogo">SYNCd</h1>
-        <button className="navButtons"><a href='https://github.com/musashi-13/Calendarize' style={{textDecoration: "none", color: "white"}}><FontAwesomeIcon icon={faGithub} size="xl"/></a></button>      
+        <button className="navButtons"><a href='https://github.com/laksxya/Calendarize-1' style={{textDecoration: "none", color: "white"}}><FontAwesomeIcon icon={faGithub} size="xl"/></a></button>      
         <button className="navButtons"><Link to='/login' style={{color: 'white'}}><FontAwesomeIcon icon={faScrewdriverWrench} size="xl"/></Link></button>
         <button className="navButtons"><FontAwesomeIcon icon={faUser} size="xl"/></button>      
         <button className="navButtons" onClick={toggleSidebar}><FontAwesomeIcon icon={faBell} size="xl"/></button>
